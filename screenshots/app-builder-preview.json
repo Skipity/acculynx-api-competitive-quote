@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Quote Ingest — AccuLynx competitor quote",
+      "hasCanvas": false,
+      "bodyTextLen": 1406,
+      "bodyTextHash": "77e0d7c645394b66c3a172f3077cda98a229119b3b934226bd67668c34066b74",
+      "bodyTextPrefix": "Quote Ingest Working with AccuLynx API — competitor quote Ingest",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Quote Ingest — AccuLynx competitor quote",
+      "hasCanvas": false,
+      "bodyTextLen": 1406,
+      "bodyTextHash": "77e0d7c645394b66c3a172f3077cda98a229119b3b934226bd67668c34066b74",
+      "bodyTextPrefix": "Quote Ingest Working with AccuLynx API — competitor quote Ingest",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
